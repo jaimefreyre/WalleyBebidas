@@ -1,0 +1,15 @@
+{
+  "background_color": "blue",
+  "description": "Gestion de venta de Pinturas.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ambar Pinturas",
+  "short_name": "ambar",
+  "start_url": "https://conurbanos.com/JaimeFreyre/ambar/"
+}
